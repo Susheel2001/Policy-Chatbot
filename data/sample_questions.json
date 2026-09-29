@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does the policy say about pre-existing diseases or conditions?",
+    "category": "definitions"
+  },
+  {
+    "question": "Are pre-hospitalisation and post-hospitalisation expenses covered?",
+    "category": "coverage"
+  },
+  {
+    "question": "What is the renewal grace period or premium due date window?",
+    "category": "renewal"
+  },
+  {
+    "question": "How does the policy define an accident?",
+    "category": "definitions"
+  },
+  {
+    "question": "Does the policy cover day care treatment and related expenses?",
+    "category": "coverage"
+  }
+]
